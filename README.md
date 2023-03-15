@@ -30,7 +30,7 @@
     <td>정보</td>
   </tr>
    <tr align = 'center'>
-     <td><a href="https://github.com/soocy0718/INSAENG_GOODS">인생 굿즈 서비스</a></td>
+     <td><a href="https://github.com/soocy0718/INSAENG_GOODS">인생 굿즈</a></td>
     <td>22.11.28 ~ 23.01.06</td>
     <td>AIVLE School</td>
   </tr>
