@@ -22,6 +22,32 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/> 
 <h3>📌 Education 📌</h3>
 <img src="https://img.shields.io/badge/KT-AIVLE SCHOOL-35a6a1?style=for-the-badge&logo=&logoColor=white"/> 
+<h3>📂 Project 📂</h3>
+<table>
+  <tr align = 'center'>
+    <td>제목</td>
+    <td>기간</td>
+    <td>정보</td>
+  </tr>
+   <tr align = 'center'>
+     <td><a href="https://github.com/soocy0718/INSAENG_GOODS">인생 굿즈 서비스</a></td>
+    <td>22.11.28 ~ 23.01.06</td>
+    <td>AIVLE School</td>
+  </tr>
+</table>
+<h3>🖊 Study 🖊</h3>
+<table>
+  <tr align = 'center'>
+    <td>제목</td>
+    <td>기간</td>
+    <td>정보</td>
+  </tr>
+   <tr align = 'center'>
+     <td><a href="https://github.com/soocy0718/python/tree/main/coding_study">코딩 테스트 - Python</a></td>
+    <td>23.02.28 ~ </td>
+    <td>with AIVLE School 동기들</td>
+  </tr>
+</table>
 </div>
 <div align = 'center'>
 <H2>✋ My Github! ✋</H2>
