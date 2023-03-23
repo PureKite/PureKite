@@ -65,8 +65,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=soocy0718&show_icons=true" style = 'width:55%;'>
 </div>
 
-<div align = 'center'>
-<H2>🏅 My BOJ! 🏅</H2>
-<a href="https://solved.ac/soocy0718"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soocy0718" style = 'width:45%'/>
-<img src="http://mazandi.herokuapp.com/api?handle=soocy0718&theme=warm" style = 'width:43%'/>
-</div>
+<!-- <div align = 'center'>
+ <H2>🏅 My BOJ! 🏅</H2>
+ <a href="https://solved.ac/soocy0718"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soocy0718" style = 'width:45%'/>
+ <img src="http://mazandi.herokuapp.com/api?handle=soocy0718&theme=warm" style = 'width:43%'/>
+ </div>-->
