@@ -53,7 +53,7 @@
     <td>with 주연, 지원, 태민</td>
   </tr>
   <tr align = 'center'>
-     <td><a href="https://github.com/nuheajiohc/tech-interview-study#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC">cs 스터디</a></td>
+     <td><a href="https://github.com/nuheajiohc/tech-interview-study">cs 스터디</a></td>
     <td>23.03.28 ~</td>
     <td>with 재훈, 정언</td>
   </tr>
