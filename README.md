@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/> 
 <h3>📌 Education 📌</h3>
 <img src="https://img.shields.io/badge/KT-AIVLE SCHOOL-35a6a1?style=for-the-badge&logo=&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NHN-ACADEMY-0123B4?style=for-the-badge&logo=&logoColor=black"/> 
 <h3>📂 Project 📂</h3>
 <table>
   <tr align = 'center'>
