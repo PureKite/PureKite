@@ -35,6 +35,11 @@
     <td>22.11.28 ~ 23.01.06</td>
     <td>AIVLE School</td>
   </tr>
+  <tr align = 'center'>
+     <td><a href="https://github.com/soocy0718/task_api">REST API 개발</a></td>
+    <td>24.01.24 ~ 23.01.28</td>
+    <td>NHN Academy</td></td>
+  </tr>
 </table>
 <h3>🖊 Study 🖊</h3>
 <table>
