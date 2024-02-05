@@ -67,8 +67,8 @@
 </div>
 <div align = 'center'>
 <H2>✋ My Github! ✋</H2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soocy0718&layout=compact" style = 'width:39%;'>
-<img src="https://github-readme-stats.vercel.app/api?username=soocy0718&show_icons=true" style = 'width:55%;'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureKite&layout=compact" style = 'width:39%;'>
+<img src="https://github-readme-stats.vercel.app/api?username=PureKite&show_icons=true" style = 'width:55%;'>
 </div>
 
 <!-- <div align = 'center'>
