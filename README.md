@@ -55,13 +55,8 @@
   </tr>
   <tr align = 'center'>
      <td><a href="https://github.com/juyeonma/python-coding-test-study">코딩 테스트 - Python</a></td>
-    <td>23.03.20 ~</td>
+    <td>23.03.20 ~ 23.08.17</td>
     <td>with 주연, 지원, 태민</td>
-  </tr>
-  <tr align = 'center'>
-     <td><a href="https://github.com/nuheajiohc/tech-interview-study">cs 스터디</a></td>
-    <td>23.03.28 ~</td>
-    <td>with 재훈, 정언</td>
   </tr>
 </table>
 </div>
