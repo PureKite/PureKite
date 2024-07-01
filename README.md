@@ -1,5 +1,5 @@
 ## Skill
-java / Spring / MySQL
+java / Spring / MySQL  
 python / Django
 
 ## Me
