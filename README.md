@@ -1,7 +1,5 @@
 ## Skill
 java / Spring / MySQL
-
-### Sub
 python / Django
 
 ## Me
