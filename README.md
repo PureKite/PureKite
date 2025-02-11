@@ -1,4 +1,4 @@
 ## Skill
 java / Spring / MySQL  
-python / Django
+python / Django  
 c#
